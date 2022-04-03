@@ -150,6 +150,9 @@ p{
     .text-break{
         font-size: 15px;
     }
+    .naslov1{
+        font-size: 30px!important;
+    }
    
 }
 @media screen and (max-width:374px){
@@ -185,6 +188,7 @@ p{
     .lead{
         font-size: 16px!important;
     }
+    
 }
 @media screen and (max-width:388px){
     .res{
