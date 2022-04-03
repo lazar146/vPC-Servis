@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(202, 202, 202)!important;
+    font-family: 'Comfortaa', cursive!important;
+    font-family: 'Titillium Web', sans-serif!important;
+}
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: end;
+}
+.nav-link {
+    font-size: 20px;
+
+}
+.navbar-brand{
+    font-size: 40px!important;
+    color: rgb(202, 202, 202)!important;
+    font-family: 'Rubik Glitch', cursive!important;
+}
+#navbarboja{
+    background-color: rgb(93, 93, 138);
+}
+#boja{
+   color: rgb(77, 77, 136);
+   font-weight: bold;
+   font-size: 20px;
+}
+#poz1{
+    background-color: rgb(93, 93, 138);
+}
+#poz{
+    background-image: url(4.jpg);
+    background-attachment: fixed;
+    color: #fff;
+}
+.poz2{
+    background-color: rgba(93, 93, 138,0.8);
+    border-radius: 5px;
+}
+#carouselExampleControls{
+    height: 20%!important;
+}
+#sred{
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+    font-weight: bold;
+    
+}
+#sred1{
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+    font-weight: bold;
+    
+}
+#sred h1{
+    border-bottom: 6px solid;
+    border-color: rgba(93, 93, 138,0.8);
+    border-radius: 5px;
+}
+#sred1 h1{
+    border-bottom: 6px solid;
+    border-color: rgb(202, 202, 202);
+    border-radius: 5px;
+}
+#footboja{
+    background-color: rgb(77, 77, 134);
+}
+
+#footboja1{
+    background-color: rgb(93, 93, 138);
+}
+#velika{
+    font-size: 30px;
+}
+.list-group{
+    border-radius: 8px!important;
+}
+.btn{
+    background-color: rgb(77, 77, 134)!important;
+    color: rgb(202, 202, 202)!important;
+}
+.iconify{
+    font-size: 27px;
+}
+#bb{
+    color: rgb(202, 202, 202)!important;
+}
+#zakan{
+    background-color: rgb(202, 202, 202)!important;
+}
+.bbt{
+    font-size: 25px!important;
+}
+.centar{
+    display: flex;
+    justify-content: center;
+}
+#ssr{
+    text-align: center;
+}
+#velik{
+    font-size: 35px!important;
+}
+#bojatd{
+    color: rgb(202, 202, 202);
+}
+#text{
+    text-decoration: none;
+    color: rgb(202, 202, 202);
+    font-size: 18px;
+}
+#text:hover{
+    color:  rgb(52, 52, 133);
+}
+p{
+    margin: 0px!important;
+}
+.ssa{
+    text-align: center;
+}
+#foot{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-break{
+    font-size: 20px;
+}
+@media screen and (max-width:768px){
+    .text-break{
+        font-size: 15px;
+    }
+   
+}
+@media screen and (max-width:374px){
+    .card{
+        width: 15rem;
+        margin: 0px!important;
+    }
+    .res{
+        width: 15rem!important;
+    }
+    .ress{
+        width: 13rem!important;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:513px){
+    .res{
+        width: 26rem!important;
+    }
+    .ress{
+        width: 24rem!important;
+        font-size: 19px;
+    }
+}
+@media screen and (max-width:470px){
+    .res{
+        width: 20rem!important;
+    }
+    .ress{
+        width: 18rem!important;
+        font-size: 16px;
+    }
+    .lead{
+        font-size: 16px!important;
+    }
+}
+@media screen and (max-width:388px){
+    .res{
+        width: 16rem!important;
+    }
+    .ress{
+        width: 14rem!important;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:320px){
+    .res{
+        width: 13.8rem!important;
+    }
+    .ress{
+        width: 11.8rem!important;
+        font-size: 13px;
+    }
+}
+.naslov1{
+    margin-bottom: 8%;
+    font-size: 60px;
+    background-color: rgb(93, 93, 138);
+    border-radius: 5px;
+}
+textarea{
+    padding: 10px;
+    width: 100%;
+}
