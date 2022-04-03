@@ -6,6 +6,7 @@ body{
     background-color: rgb(202, 202, 202)!important;
     font-family: 'Comfortaa', cursive!important;
     font-family: 'Titillium Web', sans-serif!important;
+    scroll-behavior: smooth;
 }
 body::-webkit-scrollbar {
     width: 1em;
